@@ -6,4 +6,5 @@ Python for Natural Language Processing
     -maxmatching
         -FMM
         -BMM
+        -BiMM
 ### spellcorrection
