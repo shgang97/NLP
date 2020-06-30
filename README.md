@@ -8,3 +8,5 @@ Python for Natural Language Processing
         -BMM
         -BiMM
 ### spellcorrection
+### postagging
+    -viterbi
